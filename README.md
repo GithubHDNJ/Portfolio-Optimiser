@@ -18,7 +18,7 @@ Python, Jupyter Notebooks
     Pandas, Numpy, Bokeh
 
 ## Contributing
-Fang Cheng Guo
+Fang Cheng Guo  
 Alek
 
 ## License
